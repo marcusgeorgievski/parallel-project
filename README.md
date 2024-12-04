@@ -1,1 +1,1 @@
-# parallel-project
+# Parallel Programming Project
